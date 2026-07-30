@@ -1,5 +1,5 @@
 # GTSRB Traffic Sign Detection & Recognition
-## CMT307 Applied Machine Learning 
+ 
 
 ---
 
